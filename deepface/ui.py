@@ -85,7 +85,8 @@ def create_root(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.C
 
     source_label = ctk.CTkLabel(root, text=None, fg_color=ctk.ThemeManager.theme.get('DeepFaceDropArea').get('fg_color'))
     source_label.place(relx=0.1, rely=0.26, relwidth=0.3, relheight=0.25)
-    source_label.configure(corner_radius=source_label.winfo_screenwidth() / 2)
+    # source_label.configure(corner_radius=source_label.winfo_screenwidth() / 2)
+    
     source_label.drop_target_register(DND_ALL)
     source_label.dnd_bind('<<Drop>>', lambda event: select_source_path(event.data))
     if deepface.globals.source_path:
@@ -93,7 +94,8 @@ def create_root(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.C
 
     target_label = ctk.CTkLabel(root, text=None, fg_color=ctk.ThemeManager.theme.get('DeepFaceDropArea').get('fg_color'))
     target_label.place(relx=0.6, rely=0.26, relwidth=0.3, relheight=0.25)
-    target_label.configure(corner_radius=target_label.winfo_screenwidth() / 2)
+    
+    # target_label.configure(corner_radius=target_label.winfo_screenwidth() / 2)
     target_label.drop_target_register(DND_ALL)
     target_label.dnd_bind('<<Drop>>', lambda event: select_target_path(event.data))
     if deepface.globals.target_path:
