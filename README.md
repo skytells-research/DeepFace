@@ -63,7 +63,7 @@ python run.py [options]
 -v, --version                                                              show program's version number and exit
 ```
 
-[![N|Solid](https://github.com/skytells-research/DeepFace/blob/main/assets/Screenshot.png)](https://www.skytells.io)
+[![N|Solid](https://github.com/skytells-research/DeepFace/blob/main/assets/screenshot.png)](https://www.skytells.io)
 
 
 Headless
