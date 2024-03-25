@@ -1,5 +1,5 @@
 
-### Linux
+# Linux
 
 Python
 ```sh
@@ -21,7 +21,7 @@ FFmpeg
 sudo apt install ffmpeg
 ```
 
-### macOS
+# macOS
 
 Python
 ```sh
@@ -44,7 +44,7 @@ brew install ffmpeg
 ```
 
 
-### Windows
+# Windows
 Python
 ```sh
 winget install -e --id Python.Python.3.10
