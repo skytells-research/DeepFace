@@ -1,11 +1,11 @@
 # DeepFace®
 DeepFace® is a Neural network system designed to swap multiple faces in videos with impressive accuracy.
+In short, DeepFace® deepfake tool that allows users to create high-quality face swaps using deep learning techniques. It offers a user-friendly interface and supports various deep learning models.
 
 Take a video and replace the face in it with a face of your choice.
 You only need one image of the desired face. No dataset, no training.
 
-
-[![N|Solid](https://raw.githubusercontent.com/skytells-research/DeepFace/main/assets/Deepface.png)](https://www.skytells.io)
+![DeepFace](https://raw.githubusercontent.com/skytells-research/DeepFace/main/assets/Deepface.png)
 
 
 
@@ -70,7 +70,7 @@ python run.py [options]
 -v, --version                                                              show program's version number and exit
 ```
 
-[![N|Solid](https://raw.githubusercontent.com/skytells-research/DeepFace/main/assets/screenshot.png)](https://www.skytells.io)
+![DeepFace](https://raw.githubusercontent.com/skytells-research/DeepFace/main/assets/screenshot.png)
 
 
 Headless
