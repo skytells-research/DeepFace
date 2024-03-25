@@ -32,7 +32,7 @@ Keep in mind that while running the program for first time, it will download som
 ## Setup
 Keep in mind that the installation needs technical skills and is not for beginners.
 
-[Basic]https://github.com/skytells-research/DeepFace/blob/main/docs/setup.md) - It is more likely to work on your computer, but will be quite slow
+[Basic](https://github.com/skytells-research/DeepFace/blob/main/docs/setup.md) - It is more likely to work on your computer, but will be quite slow
 
 [Acceleration](https://github.com/skytells-research/DeepFace/blob/main/docs/Acceleration.md) - Unleash the full potential of your CPU and GPU
 
