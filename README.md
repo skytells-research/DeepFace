@@ -8,7 +8,6 @@ You only need one image of the desired face. No dataset, no training.
 ![DeepFace](https://raw.githubusercontent.com/skytells-research/DeepFace/main/assets/Deepface.png)
 
 
-
 ## Installation
 
 Clone Repository
