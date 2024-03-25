@@ -32,15 +32,22 @@ Keep in mind that while running the program for first time, it will download som
 ## Setup
 Keep in mind that the installation needs technical skills and is not for beginners.
 
-[Basic](https://github.com/skytells-research/deepface/docs/setup.md) - It is more likely to work on your computer, but will be quite slow
+[Basic]https://github.com/skytells-research/DeepFace/blob/main/docs/setup.md) - It is more likely to work on your computer, but will be quite slow
 
-[Acceleration](https://github.com/skytells-research/deepface/docs/Acceleration.md) - Unleash the full potential of your CPU and GPU
+[Acceleration](https://github.com/skytells-research/DeepFace/blob/main/docs/Acceleration.md) - Unleash the full potential of your CPU and GPU
 
 ## Usage
 Start the program with arguments:
 ```sh
-python run.py [options]
+python run.py 
+```
+Done.
 
+
+For advanced usage:
+
+```sh
+python run.py [options]
 -h, --help                                                                 show this help message and exit
 -s SOURCE_PATH, --source SOURCE_PATH                                       select an source image
 -t TARGET_PATH, --target TARGET_PATH                                       select an target image or video
