@@ -5,7 +5,7 @@ Take a video and replace the face in it with a face of your choice.
 You only need one image of the desired face. No dataset, no training.
 
 
-[![N|Solid](https://github.com/skytells-research/DeepFace/blob/main/assets/Deepface.png)](https://www.skytells.io)
+[![N|Solid](https://raw.githubusercontent.com/skytells-research/DeepFace/main/assets/Deepface.png)](https://www.skytells.io)
 
 
 
@@ -70,7 +70,7 @@ python run.py [options]
 -v, --version                                                              show program's version number and exit
 ```
 
-[![N|Solid](https://github.com/skytells-research/DeepFace/blob/main/assets/screenshot.png)](https://www.skytells.io)
+[![N|Solid](https://raw.githubusercontent.com/skytells-research/DeepFace/main/assets/screenshot.png)](https://www.skytells.io)
 
 
 Headless
