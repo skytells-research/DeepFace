@@ -1,12 +1,14 @@
 # DeepFace®
 DeepFace® is a Neural network system designed to swap multiple faces in videos with impressive accuracy.
-In short, DeepFace® deepfake tool that allows users to create high-quality face swaps using deep learning techniques. It offers a user-friendly interface and supports various deep learning models.
+In short, DeepFace® deepfake tool that allows users to create high-quality face swaps using deep learning techniques.
+
+It offers a user-friendly interface and supports various deep learning models.
+
 
 Take a video and replace the face in it with a face of your choice.
 You only need one image of the desired face. No dataset, no training.
 
 ![DeepFace](https://raw.githubusercontent.com/skytells-research/DeepFace/main/assets/Deepface.png)
-
 
 
 ## Installation
@@ -87,3 +89,7 @@ This software is designed to contribute positively to the AI-generated media ind
 Our software uses a lot of third party libraries as well pre-trained models. 
 The users should keep in mind that these third party components have their own license and terms, therefore our license is not being applied.
 
+
+## Credits
+
+- [deepinsight](https://github.com/deepinsight) for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models.
